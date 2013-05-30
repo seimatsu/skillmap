@@ -39,6 +39,8 @@ skill_name="%s", design_skills="%s", message="%s", created="%s"',
 <head></head>
 <body>
 This file is check.php
+Test for github practice.
+
 <form action"" method="post" enctype="multipart/form-data">
 <input type="hidden" name="action" value="submit" />
 <dl>
