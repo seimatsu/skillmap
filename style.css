@@ -1,0 +1,20 @@
+#container {
+margin: auto;
+width: 1000px;
+}
+
+
+#usermenu {
+float: left;
+width: 180px;
+background-color: #cccccc;
+margin: 10px;
+}
+
+#contents {
+width: 820px;
+}
+
+#pager {
+float: right;
+}
