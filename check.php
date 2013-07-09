@@ -1,5 +1,5 @@
 <?php
-//issue test this is it.
+//issue test
 session_start();
 require('dbconnect.php');
 
