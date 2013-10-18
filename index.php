@@ -1,6 +1,7 @@
 <?php
 require('dbconnect.php');
 session_start();
+//hogehogehogehogehoge
 
 if (isset($_SESSION['id']) && $_SESSION['time'] + 3600 > time()) {
 	$SESSION['time'] = time();
